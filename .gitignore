@@ -1,5 +1,10 @@
-node_modules
-.DS_Store
-dist
-dist-ssr
-*.local
+# WEB
+/web/node_modules
+/web/.DS_Store
+/web/dist
+/web/dist-ssr
+/web/*.local
+
+# SERVER
+/server/node_modules
+/server/dist
